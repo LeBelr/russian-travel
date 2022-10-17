@@ -3,8 +3,8 @@
 В данном проекте описаны некоторые прекрасные места России.
 
 В этом проекте использованы следующие технологии:
--БЭМ
--Flex
--Grid
+- БЭМ
+- Flex
+- Grid
 
-Ссылка на GitHub Pages: 
+Ссылка на GitHub Pages: https://lebelr.github.io/russian-travel/
