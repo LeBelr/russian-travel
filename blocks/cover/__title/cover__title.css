@@ -6,7 +6,6 @@
   line-height: 76px;
   text-align: center;
   color: #FFFFFF;
-  white-space: pre-line;
 }
 
 @media screen and (max-width: 767px) {
@@ -14,5 +13,6 @@
     margin-bottom: 16px;
     font-size: 32px;
     line-height: 35px;
+    max-width: 288px;
   }
 }
